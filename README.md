@@ -15,6 +15,7 @@
 - vue 5.0/10
 - react 4.5/10
 
+[![An image of @maestrodagan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maestrodagan)](https://holopin.io/@maestrodagan)
 <!--
 **MaestroDagan/MaestroDagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
