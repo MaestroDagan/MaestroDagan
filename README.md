@@ -2,13 +2,13 @@
 ## Skills
 ### Languages
 - JS 8.5/10
-- TS 7.5/10
-- C# 6.0/10
-- HTML 5.0/10
-- CSS 4.0/10
+- TS 8.0/10
+- C# 7.0/10
+- HTML 6.0/10
+- CSS 5.0/10
 ### Frameworks
 #### C#
-- Unity 5.0/10
+- Unity 6.0/10
 #### Other
 - discord.js 9.0/10
 - express 6.5/10
